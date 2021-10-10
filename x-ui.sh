@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@senowahyu62 
-vaxilu
-/
-x-ui
-Public
-38
-1.7k766
-Code
-Issues
-17
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-x-ui/x-ui.sh
-@vaxilu
-vaxilu Update x-ui.sh
-Latest commit 5d118af on Aug 25
- History
- 2 contributors
-@vaxilu@jukrb0x
-499 lines (454 sloc)  12.7 KB
-   
 #!/bin/bash
 
 red='\033[0;31m'
@@ -530,16 +497,3 @@ if [[ $# > 0 ]]; then
 else
     show_menu
 fi
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
